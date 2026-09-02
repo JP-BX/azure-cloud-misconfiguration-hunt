@@ -23,4 +23,4 @@ I remediated both findings through the Azure Portal and then performed a second 
 - Kali Linux
 - Azure CLI
 - Cloud Security Posture Management (CSPM)
-
+<!-- redeploy -->
