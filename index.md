@@ -50,7 +50,8 @@ For the assessment, I created a dedicated Azure lab environment containing an Az
 The storage account was intentionally left with several settings that Prowler could evaluate. Before remediation, **Storage Account Key Access** and **Public Network Access** were enabled.
 
 This provided a controlled environment where I could identify cloud security risks, apply security hardening changes, and validate the results without affecting a production environment.
-<img width="1556" height="818" alt="Screenshot 2026-09-01 210226" src="https://github.com/user-attachments/assets/947bcfaa-98f0-4e46-bb51-a6ce4016b3f1" />
+<img width="878" height="429" alt="Screenshot 2026-09-01 210226" src="https://github.com/user-attachments/assets/ab9d2c1b-d3c7-4e3d-9ef6-d1b1228e7de9" />
+
 
 ## Initial CSPM Assessment
 
