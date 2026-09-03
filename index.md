@@ -138,7 +138,7 @@ The second Prowler scan confirmed that public network access had been successful
 **Severity:** HIGH  
 **Before:** FAIL  
 **After:** PASS
-<img width="2167" height="726" alt="results" src="https://github.com/user-attachments/assets/eba8faa7-342a-4a1d-8e72-bc84001957c0" />
+<img width="100%" alt="Prowler post-remediation results" src="https://github.com/user-attachments/assets/eba8faa7-342a-4a1d-8e72-bc84001957c0" />
 
 ## Before vs. After
 ## Before vs. After
