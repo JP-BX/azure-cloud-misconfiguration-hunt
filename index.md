@@ -59,9 +59,9 @@ After configuring authentication, I executed Prowler against the Azure environme
 Prowler successfully authenticated to Azure and executed **188 security checks** against the environment. These checks evaluated Azure resources for security misconfigurations, insecure configurations, and alignment with security and compliance frameworks. 
 
 The initial scan established a baseline of the environment's security posture before any remediation changes were made.
-<img src="https://github.com/user-attachments/assets/7daced8d-6c13-4b7f-a820-30e1347db895" style="width: 1200px; max-width: none; height: auto;">
+<img src="https://github.com/user-attachments/assets/0504a9f4-215f-401e-af09-3ea42558fc64" style="width: 1200px; max-width: none; height: auto;">
 
-## Security Findings
+## Security Findings 
 
 ### Finding 1: Shared Key Authentication Enabled
 
