@@ -1,4 +1,3 @@
-# Azure Cloud Misconfiguration Hunt
 
 ## Project Overview
 
