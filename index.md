@@ -76,7 +76,7 @@ Prowler reported the following security check as failed:
 **Check:** `storage_account_key_access_disabled`
 **Severity:** HIGH
 **Initial Status:** FAIL
-<img width="1700" height="450" alt="Screenshot 2026-09-01 231618" src="https://github.com/user-attachments/assets/801b4b51-9d0c-4013-aa74-b11a1f61cd55" />
+<img src="https://github.com/user-attachments/assets/801b4b51-9d0c-4013-aa74-b11a1f61cd55" style="width: 1200px; max-width: none; height: auto;">
 
 
 ### Finding 2: Public Network Access Enabled
