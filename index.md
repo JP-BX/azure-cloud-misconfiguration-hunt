@@ -60,7 +60,7 @@ After configuring authentication, I executed Prowler against the Azure environme
 Prowler successfully authenticated to Azure and executed **188 security checks** against the environment. These checks evaluated Azure resources for security misconfigurations, insecure configurations, and alignment with security and compliance frameworks. 
 
 The initial scan established a baseline of the environment's security posture before any remediation changes were made.
-<img width="1068" height="657" alt="Screenshot 2026-09-01 225157" src="https://github.com/user-attachments/assets/501daf2a-6447-4321-a093-067443dfa531" />
+<img src="https://github.com/user-attachments/assets/7daced8d-6c13-4b7f-a820-30e1347db895" style="width: 1200px; max-width: none; height: auto;">
 
 ## Security Findings
 
@@ -131,7 +131,7 @@ The second Prowler scan confirmed that Shared Key authentication had been succes
 **Severity:** HIGH  
 **Before:** FAIL  
 **After:** PASS
-<img width="1692" height="162" alt="Screenshot 2026-09-01 234640" src="https://github.com/user-attachments/assets/b3b2b202-7c8e-4dfa-836b-b8c75173cee3" />
+<img src="https://github.com/user-attachments/assets/b3b2b202-7c8e-4dfa-836b-b8c75173cee3" style="width: 1200px; max-width: none; height: auto;">
 
 
 
@@ -143,7 +143,7 @@ The second Prowler scan confirmed that public network access had been successful
 **Severity:** HIGH  
 **Before:** FAIL  
 **After:** PASS
-<img width="1701" height="171" alt="Screenshot 2026-09-01 234727" src="https://github.com/user-attachments/assets/5abe49b0-cfa3-43ad-b1c6-56c715fcae53" />
+<img src="https://github.com/user-attachments/assets/5abe49b0-cfa3-43ad-b1c6-56c715fcae53" style="width: 1200px; max-width: none; height: auto;">
 
 ## Before vs. After
 
