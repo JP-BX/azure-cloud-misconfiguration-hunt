@@ -76,7 +76,8 @@ Prowler reported the following security check as failed:
 **Check:** `storage_account_key_access_disabled`
 **Severity:** HIGH
 **Initial Status:** FAIL
-<img width="1890" height="543" alt="Screenshot 2026-09-01 231618" src="https://github.com/user-attachments/assets/c1661ae4-7bfb-445b-b895-414aedbccef4" />
+<img width="1700" height="450" alt="Screenshot 2026-09-01 231618" src="https://github.com/user-attachments/assets/801b4b51-9d0c-4013-aa74-b11a1f61cd55" />
+
 
 ### Finding 2: Public Network Access Enabled
 
@@ -130,6 +131,9 @@ The second Prowler scan confirmed that Shared Key authentication had been succes
 **Severity:** HIGH  
 **Before:** FAIL  
 **After:** PASS
+<img width="1692" height="162" alt="Screenshot 2026-09-01 234640" src="https://github.com/user-attachments/assets/b3b2b202-7c8e-4dfa-836b-b8c75173cee3" />
+
+
 
 ### Public Network Access Validation
 
@@ -139,9 +143,8 @@ The second Prowler scan confirmed that public network access had been successful
 **Severity:** HIGH  
 **Before:** FAIL  
 **After:** PASS
-<img width="100%" height="auto" alt="Prowler post-remediation results" src="https://github.com/user-attachments/assets/eba8faa7-342a-4a1d-8e72-bc84001957c0" />
+<img width="1701" height="171" alt="Screenshot 2026-09-01 234727" src="https://github.com/user-attachments/assets/5abe49b0-cfa3-43ad-b1c6-56c715fcae53" />
 
-## Before vs. After
 ## Before vs. After
 
 The results of the assessment demonstrated the complete CSPM remediation workflow: identify a security misconfiguration, understand the associated risk, apply a security control, and validate the remediation through a second security assessment.
